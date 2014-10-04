@@ -3,7 +3,7 @@
 /*
 Plugin Name: CS Custom Posts
 Description: CS Custom Posts
-Author: Dmitriy Shuba <sda@sda.in.ia>
+Author: Dmitriy Shuba <sda@sda.in.ua>
 Version: 0.1.0
 */
 
