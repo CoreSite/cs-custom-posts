@@ -1,4 +1,4 @@
-WP CSCustomPosts
+WP Plugin CSCustomPosts
 ===============
 
 Плагин WordPress для создание кастомных типов записей и таксономий. 
